@@ -18,13 +18,12 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
 
-<a href="https://twitter.com/fuekihigh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fuekihigh" height="30" width="40" /></a>
+
 
 <a href="https://instagram.com/fuekihigh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fuekihigh" height="30" width="40" /></a>
 
-<a href="https://www.youtube.com/c/fuekihigh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fuekihigh" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/enesxsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="enesxsec" height="30" width="40" /></a>
 
 <a href="https://tryhackme.com/p/fuekihigh"><img src="https://img.shields.io/badge/TryHackMe-green?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe Badge"/></a>
 
