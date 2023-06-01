@@ -6,17 +6,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fuekihigh1" alt="fuekihigh1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/fuekihigh" target="blank"><img src="https://img.shields.io/twitter/follow/fuekihigh?logo=twitter&style=for-the-badge" alt="fuekihigh" /></a> </p>
 
 - 💻 I'm currently working on [MonaxterStudio](https://github.com/monaxterstudio)
 
-- 👨‍💻 All of my projects are available at [github.com/fuekihigh1](https://github.com/fuekihigh1)
 
-- 📩 How to reach me **fuekihigh@gmail.com | fuekihigh@proton.me**
 
-- 📄 Know about my experiences [instagram.com/fuekihigh](https://instagram.com/fuekihigh)
 
-<h3 align="left">Connect with me:</h3>
 
 
 
